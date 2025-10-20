@@ -12,21 +12,53 @@
 
 <p>
 
-- **Languages**:
-[![My Skills](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
+  <div id="user-content-toc">
+    <ul align="center">
+      <summary><h3 style="display: inline-block">Languages</h3></summary>
+    </ul>
+  </div>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,py&perline=14" />
+    </a>
+  </p>
 
-- **Front-End Development**:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+  <div id="user-content-toc">
+    <ul align="center">
+      <summary><h3 style="display: inline-block">Front-End Development</h3></summary>
+    </ul>
+  </div>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=14" />
+    </a>
+  </p>
+  
+  <div id="user-content-toc">
+    <ul align="center">
+      <summary><h3 style="display: inline-block">Databases</h3></summary>
+    </ul>
+  </div>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql&perline=14" />
+    </a>
+  </p>
 
-- **Databases**:
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-
-- **Softwares and Tools**:
-[![My Skills](https://skillicons.dev/icons?i=eclipse,github)](https://skillicons.dev)
+  <div id="user-content-toc">
+    <ul align="center">
+      <summary><h3 style="display: inline-block">Softwares and Tools</h3></summary>
+    </ul>
+  </div>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=eclipse,github,vscode&perline=14" />
+    </a>
+  </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" width ="25"><b>Connect with me</b>
 <p align=center>
-  <a href="https://linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/arabela-frankow-b77bb92b4/" target="_blank">
     <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
   </a>
   <a href="mailto:ara.frankow@gmail.com" target="_blank">
@@ -34,6 +66,9 @@
   </a>
   <a href="https://github.com/AraFrankow" target="_blank">
     <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.svg" alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.instagram.com/ara_frankow/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt=github style="margin-bottom: 5px;" height="40" width="40" />
   </a>
 </p>
 
