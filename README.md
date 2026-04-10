@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/arabela-frankow-b77bb92b4/" target="_blank">
+  <a href="https://www.linkedin.com/in/arabelafrankow/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Arabela%20Frankow&logo=linkedin&label=Linkedin&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/ara_frankow/" target="_blank">
