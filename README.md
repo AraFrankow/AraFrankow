@@ -4,96 +4,90 @@
 
 ###
 
+<h1 align="center">Arabela Frankow</h1>
+<h3 align="center">Frontend Developer | React & JavaScript</h3>
+<h4 align="center">🎓 Code in Place '26 @ Stanford University</h4>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/arabelafrankow/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Arabela%20Frankow&logo=linkedin&label=Linkedin&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/ara_frankow/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=@Ara_frankow&logo=instagram&label=Instagramm&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="mailto:ara.frankow@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
   </a>
 </div>
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+## 👩‍💻 About Me
 
-###
+Frontend developer from Argentina focused on building **real-world web applications** with React and JavaScript.
 
-<h3 align="left">👩‍💻  About Me</h3>
+Currently:
+- 🎓 **Selected for Code in Place 2026** (Stanford University) — competitive Python program with ~12% acceptance rate
+- 💼 Developing a **gaming matchmaking platform** as my thesis project (React/Next.js)
+- 📚 Studying **Software Development** at Escuela Da Vinci (GPA: 8.9/10)
 
-###
+I build interfaces that combine clean design, solid logic, and great user experience.  
+**Open to junior frontend developer opportunities.**
 
-<p align="left">I'm Arabela<br><br>- 💻 I'm a junior developer from Argentina, passionate and always eager to learn new things<br>- 📚 I'm currently learning Python and JS<br>- ⚡ In my free time I like experimenting with new technologies through side projects</p>
+---
 
-###
+## 🚀 Featured Projects
 
-<h3 align="left">🛠 Language and tools</h3>
+### [🎮 Gaming Matchmaking Platform] *(Thesis Project - In Progress)*
+Web platform connecting gamers by skill level, availability, and preferences  
+**Tech:** React, Next.js, JavaScript
 
-###
+### [📝 BlogJuego](https://github.com/AraFrankow/BlogJuego)
+Blog platform with user authentication and content management  
+**Tech:** PHP, MySQL, Bootstrap
 
-<br clear="both">
+### [🐍 Code in Place 2026](https://github.com/AraFrankow/code-in-place-2026)
+My journey through Stanford's intensive Python program  
+**Tech:** Python
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-</div>
+---
 
-###
+## 🛠️ Tech Stack
 
-<br clear="both">
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-</div>
+**Backend & Databases:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-###
+**Tools:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<br clear="both">
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/arabelafrankow/)
+- 📧 ara.frankow@gmail.com
+- 📍 Buenos Aires, Argentina
+
+**Open to opportunities in:**  
+Junior Frontend Developer | React Developer | Web Developer
+
+---
 
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt"/>
 </div>
