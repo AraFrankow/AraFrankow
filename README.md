@@ -45,7 +45,7 @@ Web platform connecting gamers by skill level, availability, and preferences
 Blog platform with user authentication and content management  
 **Tech:** PHP, MySQL, Bootstrap
 
-### [🐍 Code in Place 2026](https://github.com/AraFrankow/code-in-place-2026)
+### [🐍 Code in Place 2026](https://github.com/AraFrankow/CodeInPlace)
 My journey through Stanford's intensive Python program  
 **Tech:** Python
 
